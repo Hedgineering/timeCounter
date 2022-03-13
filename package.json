@@ -1,5 +1,5 @@
 {
-  "name": "time-counter",
+  "name": "@hedgineering/time-counter",
   "version": "1.0.0",
   "description": "A simple counter library that can increment and decrement hours, minutes, and seconds. This library can generate both standard and military time representations.",
   "main": "index.js",
