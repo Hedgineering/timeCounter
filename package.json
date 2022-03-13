@@ -1,0 +1,23 @@
+{
+  "name": "time-counter",
+  "version": "1.0.0",
+  "description": "A simple counter library that can increment and decrement hours, minutes, and seconds. This library can generate both standard and military time representations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hedgineering/timeCounter.git"
+  },
+  "keywords": [
+    "time",
+    "counter"
+  ],
+  "author": "Rahul Hegde <rhegde.hrahul@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hedgineering/timeCounter/issues"
+  },
+  "homepage": "https://github.com/Hedgineering/timeCounter#readme"
+}
