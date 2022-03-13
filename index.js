@@ -1,5 +1,5 @@
 function getString(str) {
-  return `Acknowledged ${str}`
+  return `Acknowledged ${str}!`
 }
 
 module.exports = getString
