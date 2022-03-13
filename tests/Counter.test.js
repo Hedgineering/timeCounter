@@ -1,3 +1,6 @@
+// Author: Rahul Hegde
+// Date: 3/13/2022
+
 /*
 const counter = new Counter(); --> 00:00:00 AM
 const counter = new Counter(HH, MM, SS, 'AM' | 'PM'); --> HH:MM:SS AM|PM, default to AM
