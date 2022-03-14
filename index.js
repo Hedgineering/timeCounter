@@ -1,8 +1,6 @@
 // Author: Rahul Hegde
 // Date: 3/13/2022
 
-function getString(str) {
-  return `Acknowledged ${str}!`
-}
+const Counter = require('./Counter.js')
 
-module.exports = getString
+module.exports = Counter

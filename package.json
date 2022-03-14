@@ -4,7 +4,7 @@
   "description": "A simple counter library that can increment and decrement hours, minutes, and seconds. This library can generate both standard and military time representations.",
   "main": "index.js",
   "scripts": {
-    "test": "jest --coverage"
+    "test": "jest --coverage --watch"
   },
   "repository": {
     "type": "git",
