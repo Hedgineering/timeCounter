@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TimerCounterShowcase</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script src="./app.js" type="module" defer></script>
+</head>
+<body>
+  <div class="container">
+    <div class="buttons increment-buttons">
+      <button id="increment-hour">+ H</button>
+      <button id="increment-minute">+ M</button>
+      <button id="increment-second">+ S</button>
+    </div>
+    <div class="time">00:00:00 AM</div>
+    <div class="buttons decrement-buttons">
+      <button id="decrement-hour">- H</button>
+      <button id="decrement-minute">- M</button>
+      <button id="decrement-second">- S</button>
+    </div>
+    <div class="check-container">
+      <input type="checkbox" id="military" class="toggle">
+      <label for="military">Military Time?</label>
+    </div>
+  </div>
+</body>
+</html>
