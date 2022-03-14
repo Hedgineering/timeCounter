@@ -1,15 +1,22 @@
 # Timer Counter
-
-A simple counter library that can increment and decrement hours, minutes, and seconds. This library can generate both standard and military time representations.
+A simple counter library that can increment and decrement hours, minutes, and seconds. 
+This library can generate both standard and military time representations.
 
 All the functionality is protected and cannot be tampered with by end users through the api. 
 
-Even though JavaScript does not natively support private variables (at least not in a manner that has universal browser / environment support),
-some clever object prototyping was utilized to hide and protect internal functional variables from users (you can see the Counter.js source code for details).
-## Acknowledgements
-This counter was made to the specification of the Maxeta Technologies Intern Project as a part of my application to their Software Engineering Internship Program for Summer 2022.
+Even though JavaScript does not natively support private variables (at least not in a manner that 
+has universal browser / environment support), some clever object prototyping was utilized to hide 
+and protect internal functional variables from users (you can see the Counter.js source code for details).
 
-Thank you Mr. Chad Reed and Ms. Pamela Putnam from Maxeta Technologies for the opportunity to compete for your internship position!
+**You can view a simple showcase of this live** at [https://hedgineering-timer-counter.netlify.app/](https://hedgineering-timer-counter.netlify.app/)
+
+## Acknowledgements
+This counter was made to the specification of the Maxeta Technologies Intern Project as a part of my 
+application to their Software Engineering Internship Program for Summer 2022.
+
+Thank you Mr. Chad Reed and Ms. Pamela Putnam from Maxeta Technologies for the opportunity to compete 
+for your internship position!
+
 ## Author: Rahul Hegde
 
 - [Github](https://www.github.com/Hedgineering)
@@ -18,7 +25,6 @@ Thank you Mr. Chad Reed and Ms. Pamela Putnam from Maxeta Technologies for the o
 
 
 ## Installation
-
 Quick and Easy: Install my-project with npm!
 
 Assuming you have [node](https://nodejs.org/en/) installed, simply open up your terminal / command prompt in your project root directory and run this command:
