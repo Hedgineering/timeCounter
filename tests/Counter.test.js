@@ -1,7 +1,6 @@
 // Author: Rahul Hegde
 // Date: 3/13/2022
 
-const helpers = require('./TestHelpers.js')
 const Counter = require('../Counter.js')
 
 /*
