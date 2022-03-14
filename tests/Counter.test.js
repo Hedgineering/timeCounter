@@ -1,7 +1,7 @@
 // Author: Rahul Hegde
 // Date: 3/13/2022
 
-const Counter = require('../Counter.js')
+const Counter = require('../lib/Counter.js')
 
 /*
 const counter = new Counter(); --> 00:00:00 AM
